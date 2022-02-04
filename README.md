@@ -9,3 +9,4 @@ Functions to add
 - Shape adding function
 - cutting button
 - current color display
+- color explanation beneath the color buttons
