@@ -1,2 +1,10 @@
 # paintJS
-Painting Board made with VanillaJS
+
+Functions to add
+- Eraser
+- number display beside the range bar
+- random color button
+- more diverse color buttons
+- sophisticated version of color selection
+- Shape adding function
+- cutting button
