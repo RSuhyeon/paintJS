@@ -8,3 +8,4 @@ Functions to add
 - sophisticated version of color selection
 - Shape adding function
 - cutting button
+- current color display
