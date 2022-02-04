@@ -8,5 +8,5 @@ Functions to add
 - sophisticated version of color selection
 - Shape adding function
 - cutting button
-- current color display
+- most recently selected color display
 - color explanation beneath the color buttons
